@@ -1,0 +1,22 @@
+
+This is the main file I am creating this for practice purpose
+If you want to login to git / or want to intigrate the git with Intelji
+1] Go to the "Git" on top bar
+2] Then Go to the "Git Hub"
+3] Then share project on git option
+4] they will show you option to login to the git my token /username or password
+
+
+If you have to clone your project from git to Intilj directly then you can follow this steps:
+
+1] Created the project from "Project from Version Control"
+2] Then add the repo link in the "Url" feild in the pop up which open when u select the project from VC
+3] When you add repo link "Clone" option will enable at bottom.
+4] Click on it directly your project will come to your InTj
+
+If you want to create New Branch from main branch
+
+1] Click on the "Branch name" given on top
+2] Select the option "New Branch" from main branch
+3] Enter your name in it and click on ok.
+4] Your sub Branch will create
