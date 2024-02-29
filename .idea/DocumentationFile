@@ -20,3 +20,11 @@ If you want to create New Branch from main branch
 2] Select the option "New Branch" from main branch
 3] Enter your name in it and click on ok.
 4] Your sub Branch will create
+
+If you want to merge from subbranch to main
+then when you push your code to git
+then its automatically show in git that pull and commit to main branch you can
+push it from there.
+
+Then you can delete your sub branch or take a new pull and start working on same branch.
+
